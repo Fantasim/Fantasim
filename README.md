@@ -1,4 +1,14 @@
-## Projects
+# Fantasim - Louis
+
+- 10K hours+ on Go and C++ each
+- looking for a reason to practice with Rust
+- ~1800 ELO on chess.com (rapid)
+- enjoying using ai to generate data for ml pipelines
+- linux
+
+<br />
+
+### Projects that I built for myself (and that I share with the community)
 
 <table>
   <tr>
@@ -13,6 +23,7 @@
       <p align="center">
         Deterministic password & TOTP generator.
       </p>
+      <br />
     </td>
     <td width="25%" valign="top">
       <h3 align="center">Meshview</h3>
@@ -25,6 +36,7 @@
       <p align="center">
       A browser-based GLB file explorer
       </p>
+      <br />
     </td>
     <td width="25%" valign="top">
       <h3 align="center">Silobang</h3>
@@ -37,6 +49,7 @@
       <p align="center">
         Self-hosted, content-addressed asset storage with cryptographic integrity verification
       </p>
+      <br />
     </td>
     <td width="25%" valign="top">
       <h3 align="center">AceyJS</h3>
@@ -49,12 +62,16 @@
       <p align="center">
         A robust, lightweight and, portable object-oriented state manager
       </p>
+      <br />
     </td>
   </tr>
 
 </table>
 
----
+
+<br />
+<br />
+<br />
 
 <div align="center">
   <a href="https://discord.com/users/tafan2970">
