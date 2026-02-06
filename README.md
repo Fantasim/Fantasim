@@ -39,69 +39,19 @@
       </p>
     </td>
     <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
+      <h3 align="center">AceyJS</h3>
       <br>
       <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        <a href="https://github.com/AceyJS/acey">
+          <img src="https://github.com/Fantasim/assets/raw/master/68747470733a2f2f736961736b792e6e65742f4d414141336e377a50737134685544396a32334f48674f764a495531646c466178417569517a43773971464d4867.png?raw=true" width="100%" alt="Project Name"/>
         </a>
       </p>
       <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
+        A robust, lightweight and, portable object-oriented state manager
       </p>
     </td>
   </tr>
 
-  <tr>
-    <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
-      <br>
-      <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
-        </a>
-      </p>
-      <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
-      </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
-      <br>
-      <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
-        </a>
-      </p>
-      <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
-      </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
-      <br>
-      <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
-        </a>
-      </p>
-      <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
-      </p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
-      <br>
-      <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
-        </a>
-      </p>
-      <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
