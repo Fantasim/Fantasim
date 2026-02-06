@@ -6,24 +6,24 @@
       <h3 align="center">StatelessPass</h3>
       <br>
       <p align="center">
-        <a href="https://fantasim.github.io/StatelessPass/">
+        <a href="https://fantasim.github.io/StatelessPass/" target="_blank">
           <img src="https://raw.githubusercontent.com/Fantasim/StatelessPass/main/image.png" width="100%" alt="StatelessPass"/>
         </a>
       </p>
       <p align="center">
-        Deterministic password & TOTP generator. Nothing stored, nothing sent. Single HTML file.
+        Deterministic password & TOTP generator.
       </p>
     </td>
     <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
+      <h3 align="center">Meshview</h3>
       <br>
       <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        <a href="https://glb.arysociety.com/" target="_blank">
+          <img src="https://glb.arysociety.com/og-image.png" width="100%" alt="Meshview "/>
         </a>
       </p>
       <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
+      A browser-based GLB file explorer
       </p>
     </td>
     <td width="25%" valign="top">
