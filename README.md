@@ -27,15 +27,15 @@
       </p>
     </td>
     <td width="25%" valign="top">
-      <h3 align="center">[Project Name]</h3>
+      <h3 align="center">Silobang</h3>
       <br>
       <p align="center">
-        <a href="[project-url]">
-          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        <a href="https://github.com/Fantasim/silobang">
+          <img src="https://raw.githubusercontent.com/Fantasim/silobang/refs/heads/main/docs/baneer.png" width="100%" alt="Silobang"/>
         </a>
       </p>
       <p align="center">
-        [Brief 1-2 line description of what this project does and why it matters]
+        Self-hosted, content-addressed asset storage with cryptographic integrity verification
       </p>
     </td>
     <td width="25%" valign="top">
