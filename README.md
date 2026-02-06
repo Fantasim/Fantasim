@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">[Project Name]</h3>
       <br>
       <p align="center">
@@ -14,7 +14,31 @@
         [Brief 1-2 line description of what this project does and why it matters]
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+    <td width="25%" valign="top">
       <h3 align="center">[Project Name]</h3>
       <br>
       <p align="center">
@@ -29,7 +53,7 @@
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <h3 align="center">[Project Name]</h3>
       <br>
       <p align="center">
@@ -41,7 +65,31 @@
         [Brief 1-2 line description of what this project does and why it matters]
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+    <td width="25%" valign="top">
       <h3 align="center">[Project Name]</h3>
       <br>
       <p align="center">
