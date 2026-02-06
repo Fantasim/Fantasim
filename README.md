@@ -7,7 +7,7 @@
       <br>
       <p align="center">
         <a href="https://fantasim.github.io/StatelessPass/" target="_blank">
-          <img src="https://raw.githubusercontent.com/Fantasim/StatelessPass/main/image.png" width="100%" alt="StatelessPass"/>
+          <img src="https://raw.githubusercontent.com/Fantasim/StatelessPass/main/logo.svg" width="100%" alt="StatelessPass"/>
         </a>
       </p>
       <p align="center">
