@@ -1,38 +1,69 @@
-# Hey there! 👋 I'm [Your Name]
+## Projects
 
-> *Insert witty tagline here* - maybe something about debugging at 3am or coffee addiction ☕
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+  </tr>
 
-## 🚀 What I Do
-
-[Tell people what you're up to - are you a full-stack dev, data scientist, chaos engineer? Do you build cool stuff or break things professionally?]
-
-## 🛠️ Tech I Mess With
-
-[List your favorite languages/frameworks/tools here. Feel free to add badges if you're fancy:]
-- **Languages:**
-- **Frameworks:**
-- **Tools:**
-- **Currently Learning:**
-
-## 💡 Fun Facts About Me
-
-- 🎯 [Something cool you're working on or interested in]
-- 🎮 [Hobbies? Gaming? Making robots? Collecting vintage keyboards?]
-- 🌱 [What are you currently learning or exploring?]
-- ⚡ Fun fact: [Something quirky about yourself]
-
-## 📫 How to Reach Me
-
-Because shouting into the void gets old:
-
-- **Discord:** [Your Discord username - you mentioned you'll set this up!]
-- **Email:** [louispaulsta@gmail.com](mailto:louispaulsta@gmail.com)
-- **GitHub:** You're already here, just @ me!
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">[Project Name]</h3>
+      <br>
+      <p align="center">
+        <a href="[project-url]">
+          <img src="[image-url-or-path]" width="100%" alt="Project Name"/>
+        </a>
+      </p>
+      <p align="center">
+        [Brief 1-2 line description of what this project does and why it matters]
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <i>💻 Code. Break. Fix. Repeat. 💻</i>
-  <br>
-  <sub>Warning: May contain caffeine-fueled commits</sub>
+  <a href="https://discord.com/users/tafan2970">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="mailto:louispaulsta&#64;gmail&#46;com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
