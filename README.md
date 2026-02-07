@@ -47,7 +47,7 @@
         </a>
       </p>
       <p align="center">
-        Self-hosted, content-addressed asset storage with cryptographic integrity verification
+        Self-hosted, content-addressed asset storage with integrity verification
       </p>
       <br />
     </td>
@@ -60,11 +60,28 @@
         </a>
       </p>
       <p align="center">
-        A robust, lightweight and, portable object-oriented state manager
+        Object-oriented state manager.
       </p>
       <br />
     </td>
   </tr>
+
+  <tr>
+    <td width="25%" valign="top">
+      <h3 align="center">Agnolog</h3>
+      <br>
+      <p align="center">
+        <a href="https://github.com/Fantasim/agnolog" target="_blank">
+          <img src="https://private-user-images.githubusercontent.com/9706112/546491085-884539ca-ae49-4c53-b94b-736b28cff53d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA0MzUzMTQsIm5iZiI6MTc3MDQzNTAxNCwicGF0aCI6Ii85NzA2MTEyLzU0NjQ5MTA4NS04ODQ1MzljYS1hZTQ5LTRjNTMtYjk0Yi03MzZiMjhjZmY1M2QucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMDdUMDMzMDE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDI1ZGFkZTU3Yzk0NTQ4YTBhMWI0ZDc1MmM3ODExNGM1MDVjNzY1NTcwNjJiMWRkZjlhNTcxNzJiMDk2NjgyYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.4lvtYbOlDuneRGQZDsDdiIvmRyp-Jw6FsC6rxmysW34" width="100%" alt="StatelessPass"/>
+        </a>
+      </p>
+      <p align="center">
+        Theme-agnostic fake log generator.
+      </p>
+      <br />
+    </td>
+   
+
 
 </table>
 
