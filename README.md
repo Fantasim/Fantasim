@@ -3,7 +3,7 @@
 - 10k hours+ on go and c++ each
 - linux
 - enjoying :
-  
+
    - fine-tuning models
    - generate training data with open-sourced llms
    - bootstrapping tools/ideas to production
@@ -12,7 +12,7 @@
 <br />
 
 
-### tools that i built for myself 
+### tools that i built for myself, with AI.
 
 <table>
   <tr>
@@ -91,33 +91,10 @@
 
 <br />
 
-### significant projects that i built with my own hands before AI (that took me months/years)
+### significant projects, built with own hands, before AI.
 
 <table>
   <tr>
-  <td width="25%" valign="top">
-  
-  <h2 align="center">AceyJS</h2>
-  
-  <p align="center">
-    <a href="https://github.com/AceyJS/acey">
-      <img src="https://avatars.githubusercontent.com/u/70517018?s=200" width="200" alt="AceyJS Logo" />
-    </a>
-  </p>
-  
-  <p>
-  A lightweight (~30kb) object-oriented state manager tailored for React {Native}, built for reusable and persistent application states.
-  </p>
-  
-  <b>Key Features</b>
-  
-  - Class-based, reusable state architecture  
-  - Persistent & offline-ready (local sync)  
-  - No reducers, selectors or boilerplate  
-  - Highly customizable
-  
-  </td>
-
 <td width="25%" valign="top">
 
 <h2 align="center">Involvera</h2>
@@ -150,6 +127,28 @@ A decentralized platform enabling open-source projects to build and manage their
 
 </td>
 
+<td width="25%" valign="top">
+  
+  <h2 align="center">AceyJS</h2>
+  
+  <p align="center">
+    <a href="https://github.com/AceyJS/acey">
+      <img src="https://avatars.githubusercontent.com/u/70517018?s=200" width="200" alt="AceyJS Logo" />
+    </a>
+  </p>
+  
+  <p>
+  A lightweight (~30kb) object-oriented state manager tailored for React {Native}, built for reusable and persistent application states.
+  </p>
+  
+  <b>Key Features</b>
+  
+  - Class-based, reusable state architecture  
+  - Persistent & offline-ready (local sync)  
+  - No reducers, selectors or boilerplate  
+  - Highly customizable
+  
+</td>
     
   </tr>
 </table>
