@@ -1,14 +1,18 @@
 # Fantasim - Louis
 
-- 10K hours+ on Go and C++ each
-- looking for a reason to practice with Rust
-- ~1800 ELO on chess.com (rapid)
-- enjoying using ai to generate data for ml pipelines
+- 10k hours+ on go and c++ each
 - linux
+- enjoying :
+  
+   - fine-tuning models
+   - generate training data with open-sourced llms
+   - bootstrapping tools/ideas to production
+   - blitz chess
 
 <br />
 
-### Projects that I built for myself (and that I share with the community)
+
+### tools that i built for myself 
 
 <table>
   <tr>
@@ -34,7 +38,7 @@
         </a>
       </p>
       <p align="center">
-      A browser-based GLB file explorer
+      A browser-based GLB file explorer for models reviewing and Q&A
       </p>
       <br />
     </td>
@@ -52,37 +56,84 @@
       <br />
     </td>
     <td width="25%" valign="top">
-      <h3 align="center">AceyJS</h3>
-      <br>
-      <p align="center">
-        <a href="https://github.com/AceyJS/acey">
-          <img src="https://github.com/Fantasim/assets/raw/master/68747470733a2f2f736961736b792e6e65742f4d414141336e377a50737134685544396a32334f48674f764a495531646c466178417569517a43773971464d4867.png?raw=true" width="100%" alt="Project Name"/>
-        </a>
-      </p>
-      <p align="center">
-        Object-oriented state manager.
-      </p>
-      <br />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%" valign="top">
       <h3 align="center">Agnolog</h3>
       <br>
       <p align="center">
         <a href="https://github.com/Fantasim/agnolog" target="_blank">
-          <img src="https://private-user-images.githubusercontent.com/9706112/546491085-884539ca-ae49-4c53-b94b-736b28cff53d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA0MzUzMTQsIm5iZiI6MTc3MDQzNTAxNCwicGF0aCI6Ii85NzA2MTEyLzU0NjQ5MTA4NS04ODQ1MzljYS1hZTQ5LTRjNTMtYjk0Yi03MzZiMjhjZmY1M2QucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDIwNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAyMDdUMDMzMDE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDI1ZGFkZTU3Yzk0NTQ4YTBhMWI0ZDc1MmM3ODExNGM1MDVjNzY1NTcwNjJiMWRkZjlhNTcxNzJiMDk2NjgyYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.4lvtYbOlDuneRGQZDsDdiIvmRyp-Jw6FsC6rxmysW34" width="100%" alt="StatelessPass"/>
+          <img src="https://github.com/Fantasim/agnolog/blob/main/docs/baneer.png?raw=true" width="100%" alt="Agnolog"/>
         </a>
       </p>
       <p align="center">
-        Theme-agnostic fake log generator.
+        Theme-agnostic log generator.
       </p>
       <br />
     </td>
-   
+  </tr>
+</table>
 
+<br />
 
+### significant projects that i built with my own hands before AI (that took me months/years)
+
+<table>
+  <tr>
+  <td width="25%" valign="top">
+  
+  <h2 align="center">AceyJS</h2>
+  
+  <p align="center">
+    <a href="https://github.com/AceyJS/acey">
+      <img src="https://avatars.githubusercontent.com/u/70517018?s=200" width="200" alt="AceyJS Logo" />
+    </a>
+  </p>
+  
+  <p>
+  A lightweight (~30kb) object-oriented state manager tailored for React {Native}, built for reusable and persistent application states.
+  </p>
+  
+  <b>Key Features</b>
+  
+  - Class-based, reusable state architecture  
+  - Persistent & offline-ready (local sync)  
+  - No reducers, selectors or boilerplate  
+  - Highly customizable
+  
+  </td>
+
+<td width="25%" valign="top">
+
+<h2 align="center">Involvera</h2>
+
+<p align="center">
+  <a href="https://github.com/involvera/community-coin">
+    <img src="https://avatars.githubusercontent.com/u/70521248?s=200" width="200" alt="Involvera" />
+  </a>
+</p>
+
+<p>
+A decentralized platform enabling open-source projects to build and manage their communities without relying on a central authority.
+</p>
+
+<b>Key Features</b>
+
+- **Melting Cryptocurrency (Go)**
+  - Built from scratch in Golang
+  - Used for social transactions (posts, proposals, etc.)
+  - 100% expiration in ~1.6 years (prevents hoarding, encourages activity)
+
+- **Frontend**
+  - Built with React
+
+- **Wallet**
+  - JavaScript implementation
+  - Bitcoin-inspired cryptography
+
+- **Custom Transaction Scripting Language**
+
+</td>
+
+    
+  </tr>
 </table>
 
 
