@@ -76,7 +76,7 @@
       <br>
       <p align="center">
         <a href="https://github.com/Fantasim/Backthynk" target="_blank">
-          <img src="https://raw.githubusercontent.com/Backthynk/assets/refs/heads/main/home.png" width="100%" alt="Backthynk"/>
+          <img src="https://github.com/Fantasim/Backthynk/blob/main/docs/ui/home.png?raw=true" width="100%" alt="Backthynk"/>
         </a>
       </p>
       <p align="center">
