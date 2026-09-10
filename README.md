@@ -1,1 +1,7 @@
-ai generated data to train ai generated models.
+- ai generated data to train ai generated models to build ai generated outputs consumed by ai generated inputs.
+- doubt programs and front-tier models.
+- soul-endowed humans have a substance that programs will never have.
+- non-soul-endowed ones are programs.
+- programs are disconnected from truth, non-programs are disconnected from knowledge.
+- truth can be illusion, knowledge can be noise.
+- good luck.
